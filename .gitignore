@@ -40,3 +40,5 @@ vignettes/*.pdf
 
 #from usethis:::git_ignore_lines
 .DS_Store
+
+# Wow this is amazing
