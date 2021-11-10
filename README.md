@@ -12,3 +12,4 @@ hej
 
 Well, now we have two commits! :D
 
+added new Hej
